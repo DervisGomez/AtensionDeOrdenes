@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp"
+    android:background="@color/gris_2">
+
+    <TextView
+        android:id="@+id/tvId"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="Id: 12345 "/>
+    <TextView
+        android:id="@+id/tvSolicitud"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="Solicitud: 12345 "/>
+    <TextView
+        android:id="@+id/tvTipo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="Tipo Trabajo: 12345 "/>
+    <TextView
+        android:id="@+id/tvDireccion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="Dirección: 12345 "/>
+    <TextView
+        android:id="@+id/tvContrato"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="Contrato: 12345 "/>
+    <TextView
+        android:id="@+id/tvEstado"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:text="Estado: 12345 "/>
+
+
+</LinearLayout>
